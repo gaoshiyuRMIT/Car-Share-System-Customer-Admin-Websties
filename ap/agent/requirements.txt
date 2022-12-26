@@ -3,7 +3,7 @@ jsonpickle==1.4.1
 opencv-contrib-python==4.1.0.25
 numpy==1.18.1
 cmake==3.17.2
-wheel==0.34.2
+wheel==0.38.1
 dlib==19.19.0
 face_recognition==1.2.3
 imutils==0.5.3
